@@ -1,0 +1,4 @@
+#Mon Aug 08 18:05:34 CST 2022
+base.0=/Users/mac/freeVideo/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
